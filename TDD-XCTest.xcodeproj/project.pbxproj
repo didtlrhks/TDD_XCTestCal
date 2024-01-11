@@ -14,6 +14,7 @@
 		8E3414292B4FE11900DF394D /* TDD_XCTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3414282B4FE11900DF394D /* TDD_XCTestTests.swift */; };
 		8E3414332B4FE11900DF394D /* TDD_XCTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3414322B4FE11900DF394D /* TDD_XCTestUITests.swift */; };
 		8E3414352B4FE11900DF394D /* TDD_XCTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3414342B4FE11900DF394D /* TDD_XCTestUITestsLaunchTests.swift */; };
+		8EDA8CA82B4FECCE00705C9F /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EDA8CA62B4FECCE00705C9F /* Calculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		8E34142E2B4FE11900DF394D /* TDD-XCTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TDD-XCTestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E3414322B4FE11900DF394D /* TDD_XCTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TDD_XCTestUITests.swift; sourceTree = "<group>"; };
 		8E3414342B4FE11900DF394D /* TDD_XCTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TDD_XCTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8EDA8CA62B4FECCE00705C9F /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 		8E3414272B4FE11900DF394D /* TDD-XCTestTests */ = {
 			isa = PBXGroup;
 			children = (
+				8EDA8CA62B4FECCE00705C9F /* Calculator.swift */,
 				8E3414282B4FE11900DF394D /* TDD_XCTestTests.swift */,
 			);
 			path = "TDD-XCTestTests";
@@ -267,6 +270,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E3414292B4FE11900DF394D /* TDD_XCTestTests.swift in Sources */,
+				8EDA8CA82B4FECCE00705C9F /* Calculator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
